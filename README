@@ -1,0 +1,50 @@
+NAME
+    Pod::Weaver::Section::BashCompletion::GetoptLongComplete - Add a BASH
+    COMPLETION section for Getopt::Long::Complete-based scripts
+
+VERSION
+    This document describes version 0.01 of
+    Pod::Weaver::Section::BashCompletion::GetoptLongComplete (from Perl
+    distribution Pod-Weaver-Section-BashCompletion-GetoptLongComplete),
+    released on 2014-11-12.
+
+SYNOPSIS
+    In your "weaver.ini":
+
+     [BashCompletion::GetoptLongComplete]
+
+DESCRIPTION
+    This section plugin adds a BASH COMPLETION section for
+    Getopt::Long::Complete-based scripts. The section contains information
+    on how to activate bash completion for the scripts.
+
+SEE ALSO
+    Getopt::Long::Complete
+
+HOMEPAGE
+    Please visit the project's homepage at
+    <https://metacpan.org/release/Pod-Weaver-Section-BashCompletion-GetoptLo
+    ngComplete>.
+
+SOURCE
+    Source repository is at
+    <https://github.com/perlancar/perl-Pod-Weaver-Section-BashCompletion-Get
+    optLongComplete>.
+
+BUGS
+    Please report any bugs or feature requests on the bugtracker website
+    <https://rt.cpan.org/Public/Dist/Display.html?Name=Pod-Weaver-Section-Ba
+    shCompletion-GetoptLongComplete>
+
+    When submitting a bug or request, please include a test-file or a patch
+    to an existing test-file that illustrates the bug or desired feature.
+
+AUTHOR
+    perlancar <perlancar@cpan.org>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2014 by perlancar@cpan.org.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
